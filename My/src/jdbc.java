@@ -3,7 +3,11 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+<<<<<<< HEAD
 //fffff
+=======
+//11111111111111
+>>>>>>> branch 'master' of https://github.com/littlebean173/eclipsegitremote.git
 //444555
 public class jdbc {
 	
