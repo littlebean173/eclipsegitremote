@@ -4,6 +4,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 //123
+//444555
 public class jdbc {
 	
 	public static final String URL = "jdbc:mysql://localhost/mysql1?serverTimezone=GMT"+"user=root&password=root";
